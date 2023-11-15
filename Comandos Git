@@ -1,0 +1,19 @@
+Git add: Mueve los cambios del directorio de trabajo al staging area.
+Git commit: Confirma el cambio preparado en el historial del proyecto.
+Git push: Permite mover una o varias ramas a otro repositorio.
+Git pull: Descarga una rama de un repositorio remoto y la fusiona con la actual.
+Git checkout: Extrae las confirmaciones y las revisiones de archivos antiguas.
+Git merge: Integra los cambios de ramas divergentes.
+
+Git config: Establece las opciones de configuración para instalar Git.
+Git fetch: Descarga una rama de otro repositorio junto con sus confirmaciones y sus archivos vinculados.
+Git init: Inicializa un nuevo repositorio en Git.
+Git log: Permite explorar las revisiones anteriores de un proyecto.
+Git rebase: Permite mover las ramas, así evitamos confiramciones de fusión innecesarias.
+Gir reflog: Git realiza el seguimiento de las actualizaciones mediante unj mecanismo llamado registro de referencia.
+Git remote: Administra conexiones remotas.
+Git reset: Deshace cambios el los archivos del directorio.
+Git revert: Permite deshacer un cambio confirmado.
+Git status: Muestra el estado del directorio en el que se está trabajando.
+
+Atlassian. (s.f). Comandos de Git. Desarrollo de Software. Atlassian. Extraído de https://www.atlassian.com/es/git/glossary#commands
