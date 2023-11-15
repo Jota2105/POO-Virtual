@@ -1,2 +1,2 @@
 # POO-Virtual
- T1
+ Semana 1 - Programación Orientada a Objetos
